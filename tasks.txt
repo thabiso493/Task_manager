@@ -1,0 +1,5 @@
+Task - Task title - Task description - Task due date - Task date assigned - Task status 
+
+Thabiso - student register - this is where you name all the students in class - 2020-01-23 - 30/01/2020 - NO
+admin - workers day - workers day schedule - 2021-03-30 - 21-01-2020 - NO
+Thabiso - rreyrey - ryreyre - ryreyr - yreyer - NO
